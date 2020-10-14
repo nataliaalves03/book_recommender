@@ -1,5 +1,6 @@
-# TÉCNICAS COLABORATIVAS DE RECOMENDAÇÃO PARA UM E-COMMERCE DE LIVROS
-Book Recommendations in R
+# Técnicas colaborativas de recomendação para um e-commerce de livros
+Natalia Alves Santos
+(Book Recommendations in R)
 
 Este trabalho propõe um sistema de recomendação de livros baseado em filtro colaborativo, utilizando as avaliações dos usuários para sugerir outros livros que usuários similares também gostaram. Desta forma, será possível criar uma homepage personalizada com as recomendações para o usuário.
 
@@ -9,4 +10,4 @@ Para o problema de cold start, quando não sabemos as preferências do usuário,
 
 A partir do modelo desenvolvido, são apresentadas recomendações de livros geradas usuários de teste. 
 
-![alt text](https://github.com/nataliaalves03/book_recommender/blob/master/mobile.jpg?raw=true)
+![alt text](https://github.com/nataliaalves03/book_recommender/blob/master/mobile.png?raw=true)
