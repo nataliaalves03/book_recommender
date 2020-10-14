@@ -9,14 +9,14 @@ Para o problema de cold start, quando não sabemos as preferências do usuário,
 
 As recomendações são feitas utilizando as avaliações de usuários dos sites Goodreads e Amazon disponibilizadas pela UCSD.
 
-#Fonte dos dados
+## Fonte dos dados
 
-Amazon
+### Amazon
 
 About: https://nijianmo.github.io/amazon/index.html
 Reviews: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Books.csv
 
-Goodreads
+### Goodreads
 
 About: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 Books: https://drive.google.com/uc?id=1LXpK1UfqtP89H1tYy0pBGHjYk8IhigUK
