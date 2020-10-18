@@ -1,4 +1,4 @@
-# Técnicas colaborativas de recomendação para um e-commerce de livros
+# Técnicas colaborativas de recomendação para e-commerce de livros
 
 Natalia Alves Santos
 
